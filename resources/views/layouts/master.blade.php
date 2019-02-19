@@ -172,13 +172,16 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
           <li class="nav-item has-treeview">
             <a href="#" class="nav-link active">
+
               <i class="nav-icon fa fa-cog"></i>
               <p>
                 Management
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
+          
             <ul class="nav nav-treeview">
+              
               <li class="nav-item">
                 <a href="#" class="nav-link active">
                   <i class="fa fa-circle-o nav-icon"></i>
